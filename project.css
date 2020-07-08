@@ -1,0 +1,59 @@
+body{
+    background-color: #5d6475;
+    font-family: 'Mukta', sans-serif;
+    padding-right: 0;
+}
+.blur h2{
+    font-size: 2.5rem;
+    color: gainsboro;
+    font-weight: 100;
+}
+.blur p{
+    color: lightgrey;
+    font-weight: 100;
+    font-size: 1.125rem;
+    line-height: 2;
+}
+.blur i{
+    color: silver;
+}
+.content{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+
+#mainN{
+    font-size: 1em ;
+    font-weight: 100;
+}
+#mainN .navbar-brand{
+    color: #282f5f;
+    font-size: 1.5rem;
+    
+}
+#mainN .nav-link{
+    color: aliceblue;
+}
+#mainN .nav-link:hover{
+    color: #282f5f;
+}
+#headgrup span{
+    color:#191970 ;
+}
+#headgrup h1{
+    font-weight: 100 ;
+    font-size: 3rem;
+}
+nav.scrolled{
+    background-color: #8c92ac ;
+    transition: background 120ms;
+}
+
+@media (max-width: 1200px){
+    #headgrup h1{
+        font-weight: 100 ;
+        font-size: 2rem;
+    }
+}
+
