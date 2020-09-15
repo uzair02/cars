@@ -26,6 +26,7 @@ body{
 #mainN{
     font-size: 1em ;
     font-weight: 100;
+    position: fixed;
 }
 #mainN .navbar-brand{
     color: #282f5f;
